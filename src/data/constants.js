@@ -4,7 +4,7 @@ export const Bio = {
   description:
     "I am a PDPM IIITDM Jabalpur graduate and currently work as a Software Engineer at MYAPPSHUB LLC in Hyderabad. As a skilled Django backend developer, I have a strong passion for software development, data science, and machine learning. I am proficient in C++, data structures, algorithms, and problem-solving. I aim to expand my expertise, build intelligent and scalable solutions, and pursue dynamic roles in software development and data science.",
   github: "https://github.com/Jeevan4n",
-  resume: "https://drive.google.com/file/d/1C3Z_u2lXzT23f3aMyv9BkeAcY1I3luK5/view?usp=sharing",
+  resume: "https://drive.google.com/file/d/1LxM5zk_YVpl5Biu5319vYLIwY_qyRZl9/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/jeevan-kumar-18854023b/",
 };
 
@@ -171,7 +171,7 @@ export const experiences = [
     role: "Software Engineer",
     company: "MYAPPSHUB LLC Pvt. Ltd.",
     date: "Mar 2025 - Present",
-    desc: "Optimized performance by implementing efficient database queries, pagination, and developed an admin dashboard in the Doctors Project for managing appointments, schedules, patient records, and doctor availability, enabling fitness center managers and healthcare admins to oversee operations seamlessly..",
+    desc: " I contributed to the development of a scalable web application, actively participating in architectural decisions to ensure maintainable and efficient code. I collaborated closely with team members to troubleshoot technical challenges and enhance overall code quality. My efforts included optimizing performance through efficient database queries and implementing pagination. Additionally, I developed an admin dashboard for the Doctors Project, enabling seamless management of appointments, schedules, patient records, and doctor availability, which empowered fitness center managers and healthcare administrators to oversee operations effectively",
     skills: ["Python", "Flask", "Postgre SQL", "Next.js"],
   },
   {
